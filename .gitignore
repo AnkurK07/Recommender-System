@@ -1,0 +1,17 @@
+# Python-related files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+/.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE files (optional, adjust based on your IDE)
+.vscode/
+.idea/
+
+# Streamlit specific files
+.streamlit/secrets.toml
