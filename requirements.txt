@@ -1,0 +1,8 @@
+streamlit
+numpy
+scikit-learn
+pandas
+tensorflow
+keras
+requests
+
